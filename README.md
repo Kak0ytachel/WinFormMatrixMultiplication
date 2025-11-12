@@ -8,3 +8,4 @@ Download:
 ```
 git clone https://github.com/Kak0ytachel/WinFormMatrixMultiplication
 ```
+or [.zip archive](https://github.com/Kak0ytachel/WinFormMatrixMultiplication/archive/refs/heads/master.zip)
